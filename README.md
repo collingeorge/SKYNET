@@ -8,3 +8,5 @@ Disable the CDN whitelisting in SKYNETs settings (I think it's option 11 in the 
 
 Leave it for 24 hours, after logging in you should see both inbound and outbound blocks. 
 Outbound blocks are generally good becuase they prevent malware from reaching their command and control servers.
+
+Credit goes to the Firehol Project (https://github.com/firehol/blocklist-ipsets/).
