@@ -1,7 +1,5 @@
 https://iplists.firehol.org/files/iblocklist_level2.netset
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset	
-#https://iplists.firehol.org/files/firehol_level3.netset
-#https://iplists.firehol.org/files/firehol_level4.netset
-#https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt
-#https://raw.githubusercontent.com/Audionut/IPSet_ASUS/master/country_block_list.ipset
+https://iplists.firehol.org/files/firehol_level3.netset
+https://iplists.firehol.org/files/firehol_level4.netset
