@@ -1,8 +1,10 @@
 # ☁️ SKYNET Blocklist
 
-**SKYNET** is a malware IP blocklist management tool designed to enhance your network security by blocking inbound and outbound connections to known malicious hosts.
+**SKYNET** is a firewall that was built by Adam00. The project is found here:
 
-This repository contains a curated blocklist that integrates with the [SKYNET](https://github.com/collingeorge/SKYNET) system to block malware communications, with a strong emphasis on **outbound** control to disrupt command-and-control (C2) traffic.
+https://github.com/Adamm00/IPSet_ASUS
+
+This repository is to dedicated to the development, testing and sharing of better blocklists and settings of SKYNET. This malware IP blocklist is designed to enhance your network security by blocking inbound and outbound connections to known malicious hosts, with a strong emphasis on **outbound** control to disrupt command-and-control (C2) traffic.
 
 ---
 
@@ -11,8 +13,9 @@ This repository contains a curated blocklist that integrates with the [SKYNET](h
 ### Step 1: Update the Blocklist
 
 1. Launch the **SKYNET** interface.
-2. Choose **Option 3** (Update Blocklist).
-3. Enter the following blocklist URL:
+2. Choose **Option 3** ("Malware Blacklist").
+3. Choose **Option 2** ("Change filter list").
+4. Enter the following blocklist URL:
 ```
 https://raw.githubusercontent.com/collingeorge/SKYNET/refs/heads/main/blocklist
 ```
