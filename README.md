@@ -25,10 +25,11 @@ https://raw.githubusercontent.com/collingeorge/SKYNET/refs/heads/main/blocklist
 
 ### Step 2: Disable CDN Whitelisting
 
-To improve effectiveness and prevent bypass:
+To improve effectiveness and prevent malware and command and control network bypasses:
 
-1. In the **SKYNET** main menu, choose **Option 11**.
-2. Disable **CDN Whitelisting**.
+1. In the **SKYNET** main menu, choose **Option 11** (Settings).
+2. Choose **Option 14** ("CDN Whitelisting").
+3. Choose **Option 2** ("Disable").
 
 ---
 
