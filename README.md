@@ -23,11 +23,11 @@ This blocklist is compiled from multiple authoritative sources including:
 
 ### Sanctioned and Watchlisted Countries
 
-- Blockpass – Sanctions List Countries
-- USCIRF 2025 Recommendations
-- U.S. Department of State – Countries of Particular Concern
-- U.S. Department of Energy – Countries of Risk
-- OFAC & State Sponsors of Terrorism Lists
+- [Blockpass – Sanctions List Countries](https://help.blockpass.org/hc/en-us/articles/11881237145241-Which-countries-should-I-block-Sanctions-list-countries)
+- [USCIRF 2025 Recommendations](https://www.uscirf.gov/countries/2025-recommendations)
+- [U.S. Department of State – Countries of Particular Concern](https://www.state.gov/countries-of-particular-concern-special-watch-list-countries-entities-of-particular-concern/)
+- [U.S. Department of Energy – Countries of Risk](https://www.energy.gov/science/countries-risk)
+- [OFAC & State Sponsors of Terrorism Lists](https://github.com/HotCakeX/Official-IANA-IP-blocks/tree/main/Curated-Lists)
 
 ### Threat Intelligence Feeds
 
@@ -81,13 +81,14 @@ To improve effectiveness and prevent malware and command and control network byp
 
 ## Credits
 
-This blocklist integrates and builds upon the work by the FireHOL IP Lists Project, as well as additional threat intelligence from:
+This blocklist integrates and builds upon the incredible work by the [FireHOL IP Lists Project](https://github.com/firehol/blocklist-ipsets/), as well as additional threat intelligence from:
 
-- HotCakeX's Official IANA IP Blocks
-- ThreatView
-- Emerging Threats
-- Crazy-Max's WindowsSpyBlocker
-- HerrBischoff Country IP Blocks
+- [HotCakeX's Official IANA IP Blocks](https://github.com/HotCakeX/Official-IANA-IP-blocks/)
+- [ThreatView](https://threatview.io)
+- [Emerging Threats](https://rules.emergingthreats.net/)
+- [Crazy-Max's WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
+- [HerrBischoff Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks)
+- Created with the assistance of [OpenAI](https://openai.com) and [ChatGPT](https://chat.openai.com), for automation, formatting, and research. Full [conversation](https://chatgpt.com/share/683b750a-6be8-8000-a0e6-67
 
 ## License
 
