@@ -92,8 +92,16 @@ This blocklist integrates and builds upon the incredible work by the [FireHOL IP
 
 ## License
 
-This repository follows the original licensing of the included blocklists. Please refer to the source project (FireHOL) for attribution and usage rights.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/collingeorge/SKYNET/blob/main/LICENSE) file for details.
 
 ## Contribute
 
 Have a trustworthy threat feed to recommend? Submit a pull request or open an issue.
+
+## Support
+
+Need help with .reg, .bat, .exe, or GPO/Intune deployment? Open an issue or PR, and assistance will be provided.
+
+## Credits
+
+Created with the assistance of [ChatGPT by OpenAI](https://openai.com/chatgpt), for automation, formatting, and research, published [here](https://chatgpt.com/share/683b750a-6be8-8000-a0e6-676a8a4a65c5)
