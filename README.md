@@ -88,7 +88,7 @@ This blocklist integrates and builds upon the incredible work by the [FireHOL IP
 - [Emerging Threats](https://rules.emergingthreats.net/)
 - [Crazy-Max's WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
 - [HerrBischoff Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks)
-- Created with the assistance of [OpenAI](https://openai.com) and [ChatGPT](https://chat.openai.com), for automation, formatting, and research. Full [conversation](https://chatgpt.com/share/683b750a-6be8-8000-a0e6-67)
+- Created with the assistance of [ChatGPT by OpenAI](https://openai.com/chatgpt), for automation, formatting, and research, published [here](https://chatgpt.com/share/683b750a-6be8-8000-a0e6-676a8a4a65c5)
 
 ## License
 
@@ -101,7 +101,3 @@ Have a trustworthy threat feed to recommend? Submit a pull request or open an is
 ## Support
 
 Need help with .reg, .bat, .exe, or GPO/Intune deployment? Open an issue or PR, and assistance will be provided.
-
-## Credits
-
-Created with the assistance of [ChatGPT by OpenAI](https://openai.com/chatgpt), for automation, formatting, and research, published [here](https://chatgpt.com/share/683b750a-6be8-8000-a0e6-676a8a4a65c5)
