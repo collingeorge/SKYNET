@@ -39,6 +39,7 @@ https://iplists.firehol.org/files/nixspam.ipset
 https://iplists.firehol.org/files/tor_exits.ipset
 https://iplists.firehol.org/files/voipbl.netset
 https://iplists.firehol.org/files/yoyo_adservers.ipset
+https://pgl.yoyo.org/adservers/iplist.php?ipformat=&showintro=0&mimetype=plaintext
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt
 https://raw.githubusercontent.com/Audionut/IPSet_ASUS/master/country_block_list.ipset
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/OFACSanctioned.txt
