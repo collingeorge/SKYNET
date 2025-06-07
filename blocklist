@@ -1,19 +1,12 @@
-# Pedophiles
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
-
-# Core Threat Intelligence
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/ciarmy.netset
 https://iplists.firehol.org/files/bds_atif.netset
-
-# Supplementary Intelligence (SSH, scanners, honeypots)
 https://iplists.firehol.org/files/openbl.netset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/blocklist_de_ssh.netset
 https://iplists.firehol.org/files/dshield.netset
-
-# Optional - Anonymizers, VPNs, Proxies, Malware, C2s
 https://iplists.firehol.org/files/dm_tor.netset                 # Tor exit nodes
 https://iplists.firehol.org/files/proxy_list.netset             # Anonymous proxies
 https://iplists.firehol.org/files/compromised_ips.netset        # Infected/malicious IPs
@@ -23,8 +16,6 @@ https://iplists.firehol.org/files/snort_ip_filter.netset        # Snort IP reput
 https://iplists.firehol.org/files/voipbl.netset                 # SIP & VoIP attackers
 https://iplists.firehol.org/files/sshbl.netset                  # SSH attackers (similar to ciarmy)
 https://iplists.firehol.org/files/botnetcc.netset               # Botnet command-and-control servers
-
-# Countries of Concern and High Risk
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/anonymous.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/continent_af.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_af.netset
