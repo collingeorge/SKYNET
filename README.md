@@ -75,7 +75,7 @@ These changes ensure that SKYNET users benefit from a more targeted, effective, 
 4. Enter the following blocklist URL:
 
 ```
-https://raw.githubusercontent.com/collingeorge/SKYNET/refs/heads/main/LANblocklist
+https://raw.githubusercontent.com/collingeorge/SKYNET/refs/heads/main/WANblocklist
 ```
 
 ### Step 2: Disable CDN Whitelisting
