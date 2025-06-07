@@ -1,3 +1,4 @@
+
 # SKYNET Blocklist
 
 SKYNET is a firewall developed by Adamm00. The project is available at:
@@ -27,7 +28,6 @@ This blocklist is compiled from multiple authoritative sources including:
 - [USCIRF 2025 Recommendations](https://www.uscirf.gov/countries/2025-recommendations)
 - [U.S. Department of State – Countries of Particular Concern](https://www.state.gov/countries-of-particular-concern-special-watch-list-countries-entities-of-particular-concern/)
 - [U.S. Department of Energy – Countries of Risk](https://www.energy.gov/science/countries-risk)
-- [OFAC & State Sponsors of Terrorism Lists](https://github.com/HotCakeX/Official-IANA-IP-blocks/tree/main/Curated-Lists)
 
 ### Threat Intelligence Feeds
 
@@ -45,6 +45,22 @@ This blocklist is compiled from multiple authoritative sources including:
   - OFAC sanctioned entities and threat actors
   - Open proxies, anonymizers, TOR exit nodes
   - Malware-infected hosts and botnets
+
+## Why This List is Better and What Changed
+
+This updated blocklist is the result of **rigorous statistical analysis** performed on multiple IP blocklists to optimize coverage while minimizing overlap and redundancy. Key improvements include:
+
+- **Maximized Unique IP Coverage:** By analyzing overlap among popular blocklists (primarily FireHOL’s), this list includes IP sets that cover the greatest number of malicious and suspicious addresses without duplicating entries. This leads to more efficient blocking and better use of firewall resources.
+
+- **Reduced False Positives and Noise:** Overlapping blocklists often cause redundant blocking that may include benign IPs flagged multiple times. By carefully selecting non-overlapping sets, this list reduces potential false positives and unintended service disruptions.
+
+- **Layered Defense Strategy:** The list combines core threat intelligence with specialized feeds such as SSH brute force attackers, proxy and anonymizer IPs, and country-specific high-risk blocks, providing a comprehensive multi-layered security posture.
+
+- **Focused Geographic Filtering:** Based on geopolitical risk assessment, country-specific IP blocks from nations with elevated cyber threat activity have been included to enhance regional filtering aligned with compliance and organizational risk tolerance.
+
+- **Regularly Updated and Validated:** This list is actively maintained and updated with the latest threat intelligence, ensuring continued relevance and effectiveness.
+
+These changes ensure that SKYNET users benefit from a more targeted, effective, and manageable IP blocklist that enhances network defense and aligns with modern cybersecurity best practices.
 
 ## Disclaimer
 
@@ -82,13 +98,7 @@ To improve effectiveness and prevent malware and command and control network byp
 ## Credits
 
 This blocklist integrates and builds upon the incredible work by the [FireHOL IP Lists Project](https://github.com/firehol/blocklist-ipsets/), as well as additional threat intelligence from:
-
-- [HotCakeX's Official IANA IP Blocks](https://github.com/HotCakeX/Official-IANA-IP-blocks/)
-- [ThreatView](https://threatview.io)
-- [Emerging Threats](https://rules.emergingthreats.net/)
-- [Crazy-Max's WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
-- [HerrBischoff Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks)
-- Created with the assistance of [ChatGPT by OpenAI](https://openai.com/chatgpt), for automation, formatting, and research, published [here](https://chatgpt.com/share/683b750a-6be8-8000-a0e6-676a8a4a65c5)
+- Created with the assistance of [ChatGPT by OpenAI](https://openai.com/chatgpt), for automation, formatting, and research, published [here](https://chatgpt.com/share/683b750a-6be8-8000-a0e6-676a8a4a65c5) and [here](https://chatgpt.com/share/68444b4b-1d08-8000-a872-2dc9e6dd9841)
 
 ## License
 
