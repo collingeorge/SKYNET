@@ -1,4 +1,3 @@
-
 # SKYNET Blocklist
 
 SKYNET is a firewall developed by Adamm00. The project is available at:
@@ -76,7 +75,7 @@ These changes ensure that SKYNET users benefit from a more targeted, effective, 
 4. Enter the following blocklist URL:
 
 ```
-https://raw.githubusercontent.com/collingeorge/SKYNET/refs/heads/main/blocklist
+https://raw.githubusercontent.com/collingeorge/SKYNET/refs/heads/main/LANblocklist
 ```
 
 ### Step 2: Disable CDN Whitelisting
