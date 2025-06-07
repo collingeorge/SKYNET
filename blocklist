@@ -7,15 +7,15 @@ https://iplists.firehol.org/files/openbl.netset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/blocklist_de_ssh.netset
 https://iplists.firehol.org/files/dshield.netset
-https://iplists.firehol.org/files/dm_tor.netset                 # Tor exit nodes
-https://iplists.firehol.org/files/proxy_list.netset             # Anonymous proxies
-https://iplists.firehol.org/files/compromised_ips.netset        # Infected/malicious IPs
-https://iplists.firehol.org/files/malwaredomainlist.netset      # Malware domain-based IPs
-https://iplists.firehol.org/files/reputation_alienvault.netset  # AlienVault Reputation (alt version)
-https://iplists.firehol.org/files/snort_ip_filter.netset        # Snort IP reputation
-https://iplists.firehol.org/files/voipbl.netset                 # SIP & VoIP attackers
-https://iplists.firehol.org/files/sshbl.netset                  # SSH attackers (similar to ciarmy)
-https://iplists.firehol.org/files/botnetcc.netset               # Botnet command-and-control servers
+https://iplists.firehol.org/files/dm_tor.netset           
+https://iplists.firehol.org/files/proxy_list.netset           
+https://iplists.firehol.org/files/compromised_ips.netset    
+https://iplists.firehol.org/files/malwaredomainlist.netset
+https://iplists.firehol.org/files/reputation_alienvault.netset
+https://iplists.firehol.org/files/snort_ip_filter.netset
+https://iplists.firehol.org/files/voipbl.netset
+https://iplists.firehol.org/files/sshbl.netset
+https://iplists.firehol.org/files/botnetcc.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/anonymous.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/continent_af.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_af.netset
