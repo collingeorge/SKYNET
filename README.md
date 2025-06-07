@@ -48,9 +48,7 @@ This blocklist is compiled from multiple authoritative sources including:
 
 ## Why This List is Better and What Changed
 
-This updated blocklist is the result of **rigorous statistical analysis** performed on multiple IP blocklists to optimize coverage while minimizing overlap and redundancy. 
-
-**Key improvements include:**
+This updated blocklist is the result of **rigorous statistical analysis** performed on multiple IP blocklists to optimize coverage while minimizing overlap and redundancy. Key improvements include:
 
 - **Maximized Unique IP Coverage:** By analyzing overlap among popular blocklists (primarily FireHOL’s), this list includes IP sets that cover the greatest number of malicious and suspicious addresses without duplicating entries. This leads to more efficient blocking and better use of firewall resources.
 
