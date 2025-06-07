@@ -1,1 +1,10 @@
-https://iplists.firehol.org/files/firehol_level2.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
+https://blacklist.3coresec.net/lists/all.txt
+https://cinsscore.com/list/ci-badguys.txt
+https://talosintelligence.com/documents/ip-blacklist
+https://www.spamhaus.org/drop/drop.txt
+https://www.spamhaus.org/drop/edrop.txt
+https://rules.emergingthreats.net/fwrules/emerging-Compromised-IPs.txt
+https://www.malwaredomainlist.com/hostslist/ip.txt
+https://check.torproject.org/exit-addresses
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
