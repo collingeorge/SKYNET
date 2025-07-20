@@ -4,9 +4,9 @@ https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_level4.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
-https://iplists.firehol.org/files/blocklist_de.netset
+https://iplists.firehol.org/files/blocklist_de.ipset
 https://iplists.firehol.org/files/dshield_1d.netset
-https://iplists.firehol.org/files/greensnow.netset
+https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
