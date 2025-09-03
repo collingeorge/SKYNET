@@ -21,8 +21,8 @@ https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_cruzit_web_attacks.netset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_c2.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/malc0de.ipset
+https://raw.githubusercontent.com/madsharm/blocklist-ipsets-fork/refs/heads/master/bambenek_c2.ipset
+https://raw.githubusercontent.com/madsharm/blocklist-ipsets-fork/refs/heads/master/malc0de.ipset
 https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_AIP-Alpha7-latest.txt
 https://iplists.firehol.org/files/et_spamhaus.netset
 https://iplists.firehol.org/files/et_tor.ipset
