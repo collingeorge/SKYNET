@@ -1,12 +1,1 @@
 https://iplists.firehol.org/files/firehol_level1.netset
-https://iplists.firehol.org/files/firehol_level2.netset
-https://iplists.firehol.org/files/spamhaus_drop.netset
-https://iplists.firehol.org/files/spamhaus_edrop.netset
-https://www.binarydefense.com/banlist.txt
-https://feodotracker.abuse.ch/downloads/ipblocklist.txt
-https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
-https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_drop.txt
-https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt
-https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_Greynoise_blocklist.txt
-https://iplists.firehol.org/files/et_tor.ipset
-https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
